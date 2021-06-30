@@ -3,5 +3,6 @@ Blue
 Orange
 Purple
 Yellow
+White
 
 Colors of colorful poem.
